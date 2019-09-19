@@ -1,1 +1,2 @@
 # cursoprueba
+merge conflict trial
